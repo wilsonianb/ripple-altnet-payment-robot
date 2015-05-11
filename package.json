@@ -1,0 +1,19 @@
+{
+  "name": "altnet-blaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^4.7.16",
+    "bluebird": "^2.9.14",
+    "lodash": "^3.6.0",
+    "ripple-lib": "^0.12.0",
+    "node-statsd": "^0.1.1"
+  }
+}
