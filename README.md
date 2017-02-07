@@ -1,6 +1,6 @@
 # Ripple Altnet Payment Bot
 
-Submits a 20 XRP payment every 2 seconds.
+Submits a 20 XRP payment every second to the altnet.
 
 [Fund an altnet account here](https://ripple.com/build/ripple-test-net/)
 

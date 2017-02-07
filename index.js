@@ -17,7 +17,7 @@ setInterval(() => {
   api.connect().then(() => {
     return new Payment({
       address: ADDRESS,
-      destination: 'rPrfkgeiGewvr6W1LGkacGXRDv3mXoyvbH',
+      destination: DEST,
       amount: '20',
       currency: 'XRP'
     })
